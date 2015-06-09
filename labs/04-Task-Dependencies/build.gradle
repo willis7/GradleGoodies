@@ -1,0 +1,7 @@
+task hello << {
+   println 'Hello World'
+}
+
+task date << {
+   println new Date()
+}

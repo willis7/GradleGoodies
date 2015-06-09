@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/tmp/jettyRunWar/webapp/WEB-INF/lib/spring-beans-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/tmp/jettyRunWar/webapp/WEB-INF/lib/spring-webmvc-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/tmp/jettyRunWar/webapp/WEB-INF/lib/spring-web-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/tmp/jettyRunWar/webapp/WEB-INF/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/tmp/jettyRunWar/webapp/WEB-INF/lib/spring-expression-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/tmp/jettyRunWar/webapp/WEB-INF/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/tmp/jettyRunWar/webapp/WEB-INF/lib/spring-context-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/tmp/jettyRunWar/webapp/WEB-INF/lib/spring-asm-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/tmp/jettyRunWar/webapp/WEB-INF/lib/spring-core-3.0.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

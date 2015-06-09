@@ -1,0 +1,9 @@
+classes and scripts
+gstring
+closures
+dynamic properties
+collections / each {}
+lists and hashmaps
+spread operators
+method pointers / dsl
+

@@ -1,0 +1,4 @@
+ant.importBuild 'build.xml'
+
+hello.doFirst { println 'Here comes Ant' } 
+task intro << { println 'Hello, from Gradle'}

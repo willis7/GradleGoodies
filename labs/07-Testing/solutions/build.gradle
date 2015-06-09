@@ -1,0 +1,11 @@
+test {
+    afterTest { descr, result ->
+        if (result.resultType.toString() == 'FAILURE') {
+            def filepath = file("build/test-results/TEST-${descr.className}.xml").toString()
+            "open $filepath".execute()
+        }
+    }
+    testReport = false
+    forkEvery = 50
+    maxParallelForks = 2
+}

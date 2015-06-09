@@ -1,0 +1,11 @@
+<project name="gradle example"> 
+	<target name="hello" depends="intro">
+		<echo>Hello, from Ant</echo> 
+	</target>
+	<target name="test">
+		<echo>ANT test</echo> 
+	</target>
+	<target name="intro">
+		<echo>Ant intro target</echo>
+	</target>
+</project>
